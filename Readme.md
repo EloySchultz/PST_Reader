@@ -31,6 +31,7 @@ pip install tqdm
 ```
 
 > ⚠️ `libpff-python` is a Python binding for the libpff library. On Linux/macOS, you may need to install system dependencies first via `apt`, `brew`, or `conda`.
+
 > ⚠️ `tqdm` is used for displaying the progress bar during extraction.
 
 ---
