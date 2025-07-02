@@ -16,6 +16,13 @@ A Python script to extract emails from a `.pst` (Outlook Personal Storage Table)
 
 ## 📦 Setup Instructions
 
+
+### 0. Clone this repository
+In the folder where you want to have the program, run
+```
+git clone https://github.com/EloySchultz/PST_Reader.git
+```
+
 ### 1. Create a virtual environment
 
 ```bash
